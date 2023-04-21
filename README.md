@@ -3,7 +3,7 @@
 - 🔭 Busco trabalho no Back-End 
 - 🌱 Estou cursando jovem Programador no Senac, Aprendendo Pytyhon, SQL, JavaScript, HTML, CSS.
 - 📫Contatos por e-mail pontesleonardo03@gmail.com ou Celular +55049984340030
-- 😄 Pronouns: Ele/Dele
+- 😄 Ele/Dele
 
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
